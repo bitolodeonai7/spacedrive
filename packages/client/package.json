@@ -22,7 +22,7 @@
 		"fast-equals": "^5.0.1",
 		"plausible-tracker": "^0.3.8",
 		"react-hook-form": "^7.47.0",
-		"solid-js": "^1.8.8",
+		"solid-js": "^1.9.4",
 		"zod": "^3.23"
 	},
 	"devDependencies": {

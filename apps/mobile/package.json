@@ -69,7 +69,7 @@
 		"react-native-toast-message": "^2.2.0",
 		"react-native-wheel-color-picker": "^1.2.0",
 		"rive-react-native": "^6.2.3",
-		"solid-js": "^1.8.8",
+		"solid-js": "^1.9.4",
 		"supertokens-react-native": "^5.1.2",
 		"twrnc": "^4.1.0",
 		"use-count-up": "^3.0.1",
